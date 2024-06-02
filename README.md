@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivekyt01
 - 👀 I’m interested in Web & App development 
 - 🌱 I’m currently learning Web devlopmemt
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... web Projects
 - 📫 How to reach me vivekchimankar83@gmail.com 
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ...

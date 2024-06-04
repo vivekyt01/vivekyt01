@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... web Projects
 - 📫 How to reach me  this is my gmail vivekchimankar83@gmail.com 
 - 😄 Pronouns:He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 vivekyt01/vivekyt01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

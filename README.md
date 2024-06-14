@@ -10,3 +10,6 @@
 vivekyt01/vivekyt01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+1) Integrate Google Oauth
+2) Jwt Authentication
+3) TimeStamp integration

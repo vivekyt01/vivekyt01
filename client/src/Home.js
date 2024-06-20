@@ -5,6 +5,8 @@ const Home = () => {
     <div>Welcome TO Dashboard
       happy shoping
       .................
+
+      thanks for visiting
     </div>
   )
 }

@@ -6,6 +6,8 @@ const Home = () => {
       happy shoping
       .................
 
+      again happy shoping.................
+
       thanks for visiting
     </div>
   )
